@@ -1,0 +1,2 @@
+# GroupNote
+NIT_IDEAS
