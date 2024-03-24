@@ -2,4 +2,5 @@
 
 Hello,this is Yufei.
 
-Welcome to my site which is [Yufei's Blog][tangyufei233.github.io.]
+Welcome to my site which is [Yufei'sBlog][https://tangyufei233.github.io]
+
