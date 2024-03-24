@@ -1,2 +1,3 @@
-# GroupNote
-NIT_IDEAS
+# Introduction
+
+Intro
